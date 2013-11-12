@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>host</key>
-	<string>&lt;host&gt;</string>
+	<string><host></string>
 	<key>appid</key>
-	<string>&lt;appid&gt;</string>
+	<string><appid></string>
 	<key>appkey</key>
-	<string>&lt;appkey&gt;</string>
+	<string><appkey></string>
 	<key>mode</key>
-	<string>&lt;mode&gt;</string>
+	<string><mode></string>
 </dict>
 </plist>
