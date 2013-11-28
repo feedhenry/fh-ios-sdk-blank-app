@@ -1,0 +1,6 @@
+{
+  "name": "Blank Native iOS Client",
+  "type": "client_native_ios",
+  "repoUrl": "https://github.com/feedhenry/fh-ios-sdk-blank-app.git",
+  "repoBranch": "refs/heads/5202-ngui-template-configs"
+}
