@@ -10,7 +10,7 @@
 	<string><projectid></string>
 	<key>appkey</key>
 	<string><appkey></string>
-	<key>mode</key>
-	<string><mode></string>
+	<key>connectiontag</key>
+	<string><connectiontag></string>
 </dict>
 </plist>
