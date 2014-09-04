@@ -21,7 +21,6 @@
 		B339FB0415DA89410040E5FF /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = B339FB0315DA89410040E5FF /* libxml2.dylib */; };
 		B339FB0A15DA8A330040E5FF /* fhconfig.plist in Resources */ = {isa = PBXBuildFile; fileRef = B339FB0915DA8A330040E5FF /* fhconfig.plist */; };
 		B339FB0E15DA8BDB0040E5FF /* FHStarterProjectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B339FB0C15DA8BDB0040E5FF /* FHStarterProjectViewController.m */; };
-		B3BE543417A2CDD300C9D59E /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B3BE543317A2CDD300C9D59E /* AdSupport.framework */; };
 		D8C17FD119659A87004434EF /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8C17FD019659A87004434EF /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -45,7 +44,6 @@
 		B339FB0915DA8A330040E5FF /* fhconfig.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = fhconfig.plist; sourceTree = "<group>"; };
 		B339FB0B15DA8BDB0040E5FF /* FHStarterProjectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FHStarterProjectViewController.h; sourceTree = "<group>"; };
 		B339FB0C15DA8BDB0040E5FF /* FHStarterProjectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FHStarterProjectViewController.m; sourceTree = "<group>"; };
-		B3BE543317A2CDD300C9D59E /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
 		D8C17FD019659A87004434EF /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,7 +52,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B3BE543417A2CDD300C9D59E /* AdSupport.framework in Frameworks */,
 				B339FB0415DA89410040E5FF /* libxml2.dylib in Frameworks */,
 				B339FB0015DA892A0040E5FF /* libz.dylib in Frameworks */,
 				B339FAFE15DA89210040E5FF /* SystemConfiguration.framework in Frameworks */,
@@ -90,7 +87,6 @@
 		B339FAD415DA88920040E5FF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				B3BE543317A2CDD300C9D59E /* AdSupport.framework */,
 				B339FB0315DA89410040E5FF /* libxml2.dylib */,
 				B339FAFF15DA892A0040E5FF /* libz.dylib */,
 				B339FAFD15DA89210040E5FF /* SystemConfiguration.framework */,
