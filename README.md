@@ -19,6 +19,8 @@ and then:
 pod install
 ```
 
+For now on, open the *.xcworkspace* instead of *@.xcodeproj*.
+
 If you want to change the release version, update ```Podfile``` and run:
 
 ```bash
