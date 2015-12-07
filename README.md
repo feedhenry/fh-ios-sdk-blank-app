@@ -1,7 +1,7 @@
 iOS Blank App
 =============
 
-> This template app is deprecated use [helloworld-ios-app](https://github.com/feedhenry-templates/helloworld-ios) instead.
+> This template app is deprecated use [helloworld-ios-app](https://github.com/feedhenry-templates/blank-ios-app) instead.
 
 
 iOS Blank app is a simple app to get you started with FH iOS sdk.
